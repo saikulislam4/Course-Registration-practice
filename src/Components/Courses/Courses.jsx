@@ -6,8 +6,8 @@ const Courses = ({course, handleButton}) => {
 
     return (
         <div className=" rounded-xl bg-white p-4">
-            <div className="rounded-lg overflow-hidden h-[250px] ">
-                <img className="h-full" src={img} alt="" />
+            <div className="rounded-lg overflow-hidden  h-[200px] lg:h-[230px] ">
+                <img className="w-full h-full object-cover" src={img} alt="" />
             </div>
             <div className=" space-y-3 mt-3">
                 <h2 className="text-xl font-semibold">{name}</h2>
@@ -24,7 +24,7 @@ const Courses = ({course, handleButton}) => {
                     </div>
 
                 </div>
-                <button onClick={() => handleButton(course)} className="w-full py-2 rounded-lg bg-[#2F80ED] text-white capitalize">select</button>
+                <button onClick={() => handleButton(course)} className="w-full py-3 rounded-lg bg-[#2F80ED] text-white capitalize">select</button>
             </div>
 
         </div>

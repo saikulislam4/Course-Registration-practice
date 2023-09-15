@@ -8,14 +8,15 @@ import 'react-toastify/dist/ReactToastify.css';
 
 function App() {
 
-  // set fetch data in useState
+  // set fetch data and number in useState
   const [courses, setCourses] = useState([]);
   const [cartDetails, setCartDetails] =useState([]);
+
   const [priceCount, setPriceCount]= useState(0);
   const [itemCredit, setItemCredit] = useState(0);
 
   useEffect(() => {
-    fetch(`/Course.JSON`)
+    fetch(`/courses.json`)
       .then(res => res.json())
       .then(data => setCourses(data))
 
@@ -48,9 +49,9 @@ function App() {
     }
 }
   return (
-    <div className='container mx-auto px-2  '>
+    <div className='container mx-auto '>
       {/* course main title */}
-      <div className='text-center mt-8 md:mt-10 lg:pt-12'>
+      <div className='text-center mt-8'>
         <h1 className='text-3xl font-bold my '>Course Registration</h1>
       </div>
       {/* main body */}

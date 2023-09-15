@@ -5,55 +5,55 @@
     "price": 2500,
     "details": "Learn the basics of React.js and build interactive user interfaces. Dive into React components, state management, and component lifecycle. Get hands-on experience with real-world projects.",
     "credit": 3,
-    "img": "/src/assets/React.jpg"
+    "img": "https://i.ibb.co/6gSz5cg/React.jpg"
   },
   {
     "id": 2,
-    "name": "Node.js Backend Development",
+    "name": "Node.js Development",
     "price": 3500,
     "details": "Create server-side applications with Node.js and Express. Explore RESTful API design, database integration, and authentication. Launch your own RESTful API project.",
     "credit": 4,
-    "img": "/src/assets/node-1.jpg"
+    "img": "https://i.ibb.co/9bfDnq4/node-1.jpg"
   },
   {
     "id": 3,
-    "name": "Python Data Science",
+    "name": "Python",
     "price": 4200,
     "details": "Master data analysis and machine learning with Python. Learn data visualization, predictive modeling, and data manipulation. Apply data science in real-world scenarios.",
     "credit": 4,
-    "img": "/src/assets/python.png"
+    "img": "https://i.ibb.co/7SvH92V/python.png"
   },
   {
     "id": 4,
-    "name": "JavaScript Web Development",
+    "name": "JavaScript Development",
     "price": 2800,
     "details": "Build dynamic websites with JavaScript. Includes modern frameworks like React. Explore JavaScript ES6, asynchronous programming, ",
     "credit": 3,
-    "img": "/src/assets/Javascript.png"
+    "img": "https://i.ibb.co/0Krqbmw/Javascript.png"
   },
   {
     "id": 5,
-    "name": "SQL Database Administration",
+    "name": "SQL Database ",
     "price": 3200,
-    "details": "Manage and optimize SQL databases for efficient data storage. Learn SQL query optimization, indexing, and backup strategies. Ensure data integrity and security.",
+    "details": "Manage and optimize SQL databases for efficient data storage. Learn SQL query optimization, indexing, and backup strategies.",
     "credit": 3,
-    "img": "/src/assets/SQL.png"
+    "img": "https://i.ibb.co/nb8Bm0X/SQL.png"
   },
   {
     "id": 6,
     "name": "Ruby on Rails Mastery",
     "price": 3100,
-    "details": "Become a Rails expert and create web applications with Ruby. Dive into MVC architecture, routing, and database integration. Develop and deploy Rails apps.",
+    "details": "Become a Rails expert and create web applications with Ruby. Dive into MVC architecture, routing, and database integration. ",
     "credit": 3,
-    "img": "/src/assets/Ruby on Rails Hiring Guide .png"
+    "img": "https://i.ibb.co/LQmgb77/Ruby-on-Rails-Hiring-Guide.png"
   },
   {
     "id": 7,
     "name": "PHP Web Development",
     "price": 19000,
-    "details": "Build dynamic websites with PHP. Includes database integration and security practices. Develop e-commerce solutions and interactive web applications.",
+    "details": "Build dynamic websites with PHP. Includes database integration and security practices. Develop e-commerce solutions and...",
     "credit": 4,
-    "img": "/src/assets/PHP.jpg"
+    "img": "https://i.ibb.co/VqJGj2K/PHP.jpg"
   },
   {
     "id": 8,
@@ -61,15 +61,15 @@
     "price": 4200,
     "details": "Create mobile apps for iOS and Android platforms. Explore app design, user experience, and app store deployment. Build and publish your mobile app.",
     "credit": 3,
-    "img": "/src/assets/app-development.jpg"
+    "img": "https://i.ibb.co/7VdW3NB/app-development.jpg"
   },
   {
     "id": 9,
-    "name": "UI/UX Design Principles",
+    "name": "UI/UX Design ",
     "price": 2800,
-    "details": "Learn design principles and create user-friendly interfaces. Dive into user research, wireframing, and prototyping. Design engaging and intuitive interfaces.",
+    "details": "Learn design principles and create user-friendly interfaces. Dive into user research, wireframing, and prototyping. Design engaging and...",
     "credit": 2,
-    "img": "/src/assets/UI-UX.jpg"
+    "img": "https://i.ibb.co/ts3RGNN/UI-UX.jpg"
   },
   {
     "id": 10,
@@ -77,15 +77,15 @@
     "price": 3500,
     "details": "Protect systems and data from cyber threats with best practices. Explore network security, encryption, and ethical hacking. Secure your digital assets.",
     "credit": 4,
-    "img": "/src/assets/Cybersecurity.png"
+    "img": "https://i.ibb.co/mvGwXkV/Cybersecurity.png"
   },
   {
     "id": 11,
-    "name": "DevOps for Continuous Integration",
+    "name": "DevOps Integration",
     "price": 3100,
     "details": "Implement DevOps practices for seamless software development. Explore automation, containerization, and continuous integration. Streamline your development pipeline.",
     "credit": 3,
-    "img": "/src/assets/data.png"
+    "img": "https://i.ibb.co/9hCcM5R/devops.png"
   },
   {
     "id": 12,
@@ -93,6 +93,6 @@
     "price": 2500,
     "details": "Analyze and visualize data using the R programming language. Dive into data manipulation, statistical analysis, and data storytelling. Gain insights from your data.",
     "credit":3,
-    "img": "/src/assets/devops.png"
+    "img": "https://i.ibb.co/9gD8cqc/data.png"
   }
 ]
