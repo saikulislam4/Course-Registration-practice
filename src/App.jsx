@@ -15,7 +15,7 @@ function App() {
   const [itemCredit, setItemCredit] = useState(0);
 
   useEffect(() => {
-    fetch(`/src/Components/JSON/Course.JSON`)
+    fetch(`/Course.JSON`)
       .then(res => res.json())
       .then(data => setCourses(data))
 
